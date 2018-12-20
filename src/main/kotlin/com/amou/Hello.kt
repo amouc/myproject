@@ -4,6 +4,15 @@ fun main(args: Array<String>) {
 //    println("Hello Kotlin")
    val h = Human()
     h.hello()
+    var age = 18
+    val name = "Amou"
+    var height:Double
+    height = 181.2
+    var engill = true;
+    var weight:Float = 85.3f
+    println(weight)
+    println (height)
+
 
 }
 
