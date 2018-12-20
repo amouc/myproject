@@ -9,5 +9,6 @@ public class Hello {
         String name = "Amou";
         Double height = 181.2;
         Boolean enroll = false;
+        Character c = 'a';
     }
 }

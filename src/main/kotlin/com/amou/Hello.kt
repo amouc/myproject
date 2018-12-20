@@ -10,6 +10,7 @@ fun main(args: Array<String>) {
     height = 181.2
     var engill = true;
     var weight:Float = 85.3f
+    var Char = 'a'
     println(weight)
     println (height)
 
